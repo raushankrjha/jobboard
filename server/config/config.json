@@ -1,0 +1,6 @@
+{
+    "port": "3000",
+    "connectionString": "mongodb+srv://test:123@cluster0.nphqe7j.mongodb.net/jobBoard?retryWrites=true&w=majority",
+    "dbName": "job-board"
+
+}
